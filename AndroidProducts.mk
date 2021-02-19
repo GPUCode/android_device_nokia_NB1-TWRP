@@ -18,3 +18,7 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_NB1.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_NB1-eng \
+    omni_NB1-userdebug \
